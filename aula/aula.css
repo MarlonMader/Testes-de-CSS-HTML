@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap');
+
+* {
+    margin: 0px;
+
+}
+
+#Titulo {
+    text-align: center;
+    margin: auto;
+    margin-bottom: 2px;
+
+}
+
+#Titulo h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #000;
+    font-size: 27px;
+}
+
+#Paragrafo {
+    margin-bottom: 2px;
+}
+
+#Paragrafo p {
+    color: #000;
+    font-family: 'Roboto', Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 200;
+    color: #000;
+}
+
+#Produto {
+    margin-top: 1px;
+    width: 40%;
+    margin: auto;
+    margin-top: 1px;
+
+}
+
+.Produtos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: solid 2px black;
+}
+
+#Cabecalho h3,
+.Produtos p,
+Produtos div {
+    width: 30%;
+    text-align: center;
+    color: #000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Produtos div img {
+    width: 100px;
+}

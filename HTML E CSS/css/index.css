@@ -1,0 +1,10 @@
+body {
+    background: rgb(209, 108, 108);
+    background: radial-gradient(circle, rgb(194, 105, 105) 0%, rgb(76, 111, 206) 120%);
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+
+}
+
+
